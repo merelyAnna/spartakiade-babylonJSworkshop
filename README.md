@@ -2,7 +2,7 @@
 
 Repository for the babylon.JS introduction workshop at [Spartakiade 2019](https://spartakiade.org/)
 
-View the slides here: [Slides] (link to be added - sorry)
+View the slides here: [Slides](https://merelyanna.github.io/spartakiade-babylonJSworkshop/)
 
 Workshop was given together by Christina Zenzes and Anna Backs.<br/>
 Find Christina on twitter: [merelyChristina](https://twitter.com/merelyChristina)<br/>
